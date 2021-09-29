@@ -1,0 +1,2 @@
+ Get-AzVM -ResourceGroupName vm9
+ Export-CSV -Path "c:\output\mahesh.csv

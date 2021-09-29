@@ -1,0 +1,63 @@
+
+
+ 
+
+----------------completed---------------------
+-prolify health inventory. 
+-microsoft azure virtual training day 2.
+
+-----------------In-progress--------------------
+-ph4 foods and beverages client inventory
+-powershell inventory.
+
+
+
+----------------completed---------------------
+-microsoft azure virtual training day 2.
+
+-----------------In-progress--------------------
+-runbook ,automation account inventory
+
+----------------completed---------------------
+-ph4 food & beverages inventory.
+-----------------In-progress--------------------
+-flow log sheet for the inventory.
+- node project for docker.
+
+
+
+----------------topics---------------------
+- Node project for docker.
+- Multi docker container.
+- Containarize a node file.
+-----------------In-progress--------------------
+-flow log sheet for the inventory.
+
+
+----------------completed---------------------
+- PH4 food and beverage inventory
+- Multi docker container.
+- Attended Techtalk session
+-----------------In-progress--------------------
+-Exploring azure sql database.
+
+
+
+
+---------------topics---------------------
+- Explore network security group.
+- Virtual network traffic routing
+- Browse application security group.
+-----------------In-progress--------------------
+- Exploring azure sql database.
+
+
+
+---------------topics---------------------
+-  Hands on labs --->github.
+-  Workflow syntax for github actions
+-  Network traffic routing.
+
+
+
+

@@ -1,0 +1,6 @@
+Created By (Time Entry)	Ticket Id	Subject	Activity Type	Subject (Activity)	Executed Time	Created Time (Time Entry)	Time Entry Description	Activity Description	Due Date (Task)	Time Spent (hh mm ss)
+Mahesh			Topics				per-site waf polices using powershell	complete	2-Sep-21	3:00:00
+Mahesh			Topics				web application firewall on azure front end	complete	2-Sep-21	2:00:00
+Mahesh			Topics				configure the recovery service vault	In progress	2-Sep-21	1:00:00
+Mahesh			Tasks				Internal training	complete	2-Sep-21	2:00:00
+Mahesh			Tasks				clone a south india region vm in central india vm .	-	2-Sep-21	0:00:00    11--

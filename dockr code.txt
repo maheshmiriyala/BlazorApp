@@ -1,0 +1,27 @@
+$ mkdir mahesha
+
+$ git clone https://github.com/mikepfeiffer/node-docker-demo.git
+
+
+ls
+
+
+$ cd node-docker-demo/
+
+$ cd code .
+
+code .
+ clear
+
+$ docker images
+
+$ docker build -t mahesha.azurecr.io/node-docker-demo:latest .
+
+
+$ docker images
+
+$ docker run -d -p 8080:3030 mahesha.azurecr.io/node-docker-demo
+
+
+$ docker login -u maheshddoocckkeerr
+

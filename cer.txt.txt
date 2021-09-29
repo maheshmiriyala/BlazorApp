@@ -1,0 +1,15 @@
+Thumbprint                                Subject              EnhancedKeyUsageList
+----------                                -------              --------------------
+8F2BA478954263A807DF57AB7034B71FA4CE4A49  CN=P2SRootCert
+465E83F659DB0C0FC5D64576C61E888FE59ABA9B  CN=P2SChildCert      Client Authentication
+1AB6FC103EBE28485F26FAC8679AD013361F56FA  CN=P2SRootCert
+03B79E13C16FAEFFFDA7F32CF70665DE673CB87E  CN=39b78abb-7064-40… Client Authentication
+
+
+
+NAME : MIRIYALA MAHESH
+ACCOUNT No : 35909590066
+IFSC CODE :   SBIN0014572
+STATE BANK OF INDIA
+gokavaram branch
+andhra pradesh
